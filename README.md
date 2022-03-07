@@ -7,5 +7,4 @@
 - Conference Reviewer
   - CVPR 2022
   - ECCV 2022
-  - 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunny2109&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
