@@ -5,4 +5,4 @@
 
 ### Academic Services
 - Conference Reviewer
-  - CVPR/ECCV 2022
+  - CVPR, ECCV 2022
