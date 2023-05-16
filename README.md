@@ -6,7 +6,7 @@
 ### Academic Services
 - Conference Reviewer
   - NeurIPS 2023 
-  - CVPR 2022/2023(Outstanding Reviewer) 
+  - CVPR 2022, 2023(**Outstanding Reviewer**) 
   - ECCV 2022 
   - ICCV 2023 
   - AAAI 2023
