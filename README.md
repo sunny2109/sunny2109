@@ -9,6 +9,6 @@
   - CVPR 2022, 2023(**Outstanding Reviewer**) 
   - ECCV 2022 
   - ICCV 2023 
-  - AAAI 2023
+  - AAAI 2023, 2024
 - Journal Reviewer
   - CVIU   
