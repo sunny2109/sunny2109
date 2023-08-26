@@ -10,6 +10,7 @@
   - ECCV 2022 
   - ICCV 2023 
   - AAAI 2023, 2024
+  - WACV 2024
 - Journal Reviewer
   - CVIU
   - TCYB 
