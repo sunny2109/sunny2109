@@ -7,7 +7,7 @@
 - Conference Reviewer
   - NeurIPS 2023
   - ICLR 2024 
-  - CVPR 2022, 2023(**Outstanding Reviewer**) 
+  - CVPR 2022, 2023(**Outstanding Reviewer**), 2024 
   - ECCV 2022 
   - ICCV 2023 
   - AAAI 2023, 2024
