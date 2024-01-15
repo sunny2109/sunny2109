@@ -13,5 +13,6 @@
   - AAAI 2023, 2024
   - WACV 2024
 - Journal Reviewer
+  - IJCV 
   - CVIU
   - TCYB 
