@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-- 🏫 I am a Ph.D. student at IMAG Lab, Nanjing University of Science & Technology, supervised by Prof. [Jinshan Pan](https://jspan.github.io/).
+- 🏫 I'm a Ph.D. student at IMAG Lab, Nanjing University of Science & Technology, supervised by Prof. [Jinshan Pan](https://jspan.github.io/).
 - 📔 I’m currently working on low-level vision problems, especially image/video super-resolution, deblurring.
 
 ### Academic Services
